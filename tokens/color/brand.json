@@ -1,0 +1,35 @@
+{
+  "color": {
+    "background": { "value": "{color.white.value}" },
+    "primary": {
+      "base": { "value": "{color.blue.600.value}" },
+      "hover": { "value": "{color.blue.500.value}" },
+      "text": { "value": "{color.white.value}" },
+      "focus": { "value": "{color.blue.200.value}" }
+    },
+    "secondary": {
+      "base": { "value": "{color.coolGray.600.value}" },
+      "hover": { "value": "{color.coolGray.500.value}" },
+      "text": { "value": "{color.coolGray.600.value}" },
+      "focus": { "value": "{color.coolGray.200.value}" }
+    },
+    "success": {
+      "base": { "value": "{color.green.600.value}" },
+      "hover": { "value": "{color.green.500.value}" },
+      "text": { "value": "{color.green.700.value}" },
+      "focus": { "value": "{color.green.200.value}" }
+    },
+    "warning": {
+      "base": { "value": "{color.yellow.600.value}" },
+      "hover": { "value": "{color.yellow.500.value}" },
+      "text": { "value": "{color.yellow.600.value}" },
+      "focus": { "value": "{color.yellow.200.value}" }
+    },
+    "danger": {
+      "base": { "value": "{color.red.600.value}" },
+      "hover": { "value": "{color.red.500.value}" },
+      "text": { "value": "{color.red.700.value}" },
+      "focus": { "value": "{color.red.200.value}" }
+    }
+  }
+}

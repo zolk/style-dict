@@ -1,0 +1,14 @@
+{
+  "label": {
+    "color": { "value": "{color.coolGray.900}" },
+    "font": {
+      "size": {
+        "small": { "value": "{size.font.14.value}" },
+        "medium": { "value": "{size.font.16.value}" },
+        "large": { "value": "{size.font.18.value}" }
+      },
+      "weight": { "value": "{font.weight.medium.value}" },
+      "spacing": { "value": "{size.spacing.xx-small.value}" }
+    }
+  }
+}

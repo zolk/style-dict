@@ -1,0 +1,9 @@
+{
+  "font": {
+    "family": {
+      "openSans": { "value": "'Inter', 'Helvetica Neue', Arial, sans-serif" },
+      "body": { "value": "'Inter', 'Helvetica Neue', Arial, sans-serif" },
+      "monospace": { "value": "monospace" }
+    }
+  }
+}

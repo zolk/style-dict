@@ -1,0 +1,7 @@
+{
+  "modal": {
+    "overlay": {
+      "background-color": { "value": "hsla(210, 10%, 70%, 0.65)" }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "focus": {
+    "shadow": { "value": "0 0 0 3px {color.blue.200.value}" },
+    "border-color": { "value": "{color.blue.300.value}" },
+    "border": {
+      "value": "{border.width.thin.value} solid {color.blue.300.value}"
+    }
+  }
+}
