@@ -4,6 +4,11 @@
     "small": { "value": "0 1px 2px rgba(0, 0, 0, 0.1)" },
     "medium": { "value": "0 2px 4px rgba(0, 0, 0, 0.1)" },
     "large": { "value": "0 2px 8px rgba(0, 0, 0, 0.1)" },
-    "x-large": { "value": "0 4px 16px rgba(0, 0, 0, 0.1)" }
+    "x-large": { "value": "0 4px 16px rgba(0, 0, 0, 0.1)" },
+    "focus": { "value": "0 0 0 3px {color.blue.200.value}" },
+    "input": { "value": "0 1px 2px rgba(0, 0, 0, 0.05)" },
+    "panel": {
+      "value": "0 0 0 1px rgba(0, 0, 0, 0.05), 0 1px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+    }
   }
 }

@@ -1,9 +1,7 @@
 {
   "transition": {
-    "x-slow": { "value": "1000ms" },
-    "slow": { "value": "500ms" },
-    "medium": { "value": "250ms" },
-    "fast": { "value": "150ms" },
-    "x-fast": { "value": "50ms" }
+    "input": {
+      "value": "border-color {time.transition.fast.value} ease-in-out"
+    }
   }
 }

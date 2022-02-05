@@ -2,8 +2,9 @@
   "font": {
     "family": {
       "openSans": { "value": "'Inter', 'Helvetica Neue', Arial, sans-serif" },
-      "body": { "value": "'Inter', 'Helvetica Neue', Arial, sans-serif" },
-      "monospace": { "value": "monospace" }
+      "monospace": { "value": "monospace" },
+      "body": { "value": "{font.family.openSans.value}" },
+      "input": { "value": "{font.family.body.value}" }
     }
   }
 }

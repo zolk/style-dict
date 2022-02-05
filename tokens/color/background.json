@@ -1,0 +1,13 @@
+{
+  "color": {
+    "background": {
+      "base": { "value": "{color.white.value}" },
+      "panel": { "value": "{color.white.value}" },
+      "modal": { "value": "hsla(210, 10%, 70%, 0.65)" },
+      "input": {
+        "base": { "value": "{color.white.value}" },
+        "disabled": { "value": "{color.coolGray.100.value}" }
+      }
+    }
+  }
+}

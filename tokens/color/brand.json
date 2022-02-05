@@ -1,6 +1,5 @@
 {
   "color": {
-    "background": { "value": "{color.white.value}" },
     "primary": {
       "base": { "value": "{color.blue.600.value}" },
       "hover": { "value": "{color.blue.500.value}" },

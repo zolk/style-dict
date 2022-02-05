@@ -1,0 +1,23 @@
+{
+  "size": {
+    "spacing": {
+      "xxxx-small": { "value": "2px" },
+      "xxx-small": { "value": "4px" },
+      "xx-small": { "value": "8px" },
+      "x-small": { "value": "10px" },
+      "small": { "value": "12px" },
+      "medium": { "value": "16px" },
+      "large": { "value": "24px" },
+      "x-large": { "value": "32px" },
+      "xx-large": { "value": "48px" },
+      "xxx-large": { "value": "60px" },
+      "xxxx-large": { "value": "72px" },
+      "label": { "value": "{size.spacing.xx-small.value}" },
+      "input": {
+        "small": { "value": "{size.spacing.x-small.value}" },
+        "medium": { "value": "{size.spacing.small.value}" },
+        "large": { "value": "{size.spacing.medium.value}" }
+      }
+    }
+  }
+}

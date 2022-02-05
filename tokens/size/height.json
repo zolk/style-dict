@@ -1,0 +1,11 @@
+{
+  "size": {
+    "height": {
+      "input": {
+        "small": { "value": "30px" },
+        "medium": { "value": "40px" },
+        "large": { "value": "50px" }
+      }
+    }
+  }
+}

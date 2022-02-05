@@ -1,0 +1,14 @@
+{
+  "color": {
+    "text": {
+      "panel": { "value": "{color.black.value}" },
+      "label": { "value": "{color.coolGray.900}" },
+      "input": {
+        "base": { "value": "{color.black}" },
+        "disabled": { "value": "{color.coolGray.800.value}" },
+        "help": { "value": "{color.coolGray.500.value}" },
+        "placeholder": { "value": "{color.coolGray.600}" }
+      }
+    }
+  }
+}

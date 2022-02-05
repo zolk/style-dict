@@ -1,0 +1,43 @@
+{
+  "size": {
+    "font": {
+      "8": { "value": "8px" },
+      "9": { "value": "9px" },
+      "10": { "value": "10px" },
+      "11": { "value": "11px" },
+      "12": { "value": "12px" },
+      "13": { "value": "13px" },
+      "14": { "value": "14px" },
+      "16": { "value": "16px" },
+      "18": { "value": "18px" },
+      "20": { "value": "20px" },
+      "24": { "value": "24px" },
+      "28": { "value": "28px" },
+      "32": { "value": "32px" },
+      "36": { "value": "36px" },
+      "48": { "value": "48px" },
+      "60": { "value": "60px" },
+      "72": { "value": "72px" },
+      "button": {
+        "small": { "value": "{size.font.13.value}" },
+        "medium": { "value": "{size.font.14.value}" },
+        "large": { "value": "{size.font.20.value}" }
+      },
+      "label": {
+        "small": { "value": "{size.font.14.value}" },
+        "medium": { "value": "{size.font.16.value}" },
+        "large": { "value": "{size.font.18.value}" }
+      },
+      "input": {
+        "small": { "value": "{size.font.13.value}" },
+        "medium": { "value": "{size.font.14.value}" },
+        "large": { "value": "{size.font.20.value}" }
+      },
+      "help": {
+        "small": { "value": "{size.font.12.value}" },
+        "medium": { "value": "{size.font.14.value}" },
+        "large": { "value": "{size.font.16.value}" }
+      }
+    }
+  }
+}

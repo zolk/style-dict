@@ -1,0 +1,7 @@
+{
+  "color": {
+    "icon": {
+      "button": { "value": "{color.coolGray.400}" }
+    }
+  }
+}

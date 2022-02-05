@@ -1,0 +1,12 @@
+{
+  "color": {
+    "border": {
+      "focus": { "value": "{color.blue.300.value}" },
+      "panel": { "value": "{color.coolGray.200.value}" },
+      "input": {
+        "base": { "value": "{color.coolGray.300.value}" },
+        "hover": { "value": "{color.coolGray.400.value}" }
+      }
+    }
+  }
+}

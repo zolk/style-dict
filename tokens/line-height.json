@@ -2,6 +2,7 @@
   "lineHeight": {
     "dense": { "value": "1.25" },
     "normal": { "value": "1.5" },
-    "loose": { "value": "2.2" }
+    "loose": { "value": "2.2" },
+    "input": { "value": "{lineHeight.dense}" }
   }
 }

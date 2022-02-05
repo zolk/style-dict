@@ -1,16 +1,8 @@
 {
   "border": {
-    "width": {
-      "thin": { "value": "1px" },
-      "thick": { "value": "2px" }
+    "focus": {
+      "value": "{size.border.width.thin.value} solid {color.blue.300.value}"
     },
-    "radius": {
-      "small": { "value": "2px" },
-      "medium": { "value": "4px" },
-      "large": { "value": "6px" },
-      "x-large": { "value": "8px" },
-      "circle": { "value": "50%" },
-      "pill": { "value": "240px" }
-    }
+    "panel": { "value": "none" }
   }
 }
