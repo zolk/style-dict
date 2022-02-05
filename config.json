@@ -2,8 +2,14 @@
   "source": ["tokens/**/*.json"],
   "platforms": {
     "css": {
-      "transformGroup": "css",
-      "transform": "size/pxToRem",
+      "transforms": [
+        "attribute/cti",
+        "name/cti/kebab",
+        "time/seconds",
+        "content/icon",
+        "size/pxToRem",
+        "color/css"
+      ],
       "prefix": "sd",
       "buildPath": "build/css/",
       "files": [
@@ -14,7 +20,12 @@
       ]
     },
     "js": {
-      "transformGroup": "js",
+      "transforms": [
+        "attribute/cti",
+        "name/cti/pascal",
+        "size/pxToRem",
+        "color/hex"
+      ],
       "buildPath": "build/js/",
       "files": [
         {
