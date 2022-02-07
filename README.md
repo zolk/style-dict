@@ -13,12 +13,12 @@ Tokens are organized using the
 method. I have not tested this structure in production, but wanted to
 see how such a structure would be created in practice.
 
-## Pixel to REM Conversion
+### Pixel to REM Conversion
 
 All size-related tokens are specified in pixels, however these will
-be automatically converted to rems upon build using 16px as the base size.
+be automatically converted to rem upon build.
 
-## Output Formats
+### Output Formats
 
 Tokens are output as CSS custom properties and JS variables.
 
