@@ -36,7 +36,7 @@ be automatically converted to rem upon build.
 
 ### Output Formats
 
-Tokens are output as CSS custom properties and JS variables.
+Tokens are output as CSS custom properties, SCSS variables, and JS variables.
 
 ## Installation & Building
 
